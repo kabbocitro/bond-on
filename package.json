@@ -4,7 +4,7 @@
   "description": "Bond-in login page",
   "main": "index.html",
   "scripts": {
-    "build": "echo 'Build complete - static HTML ready for deployment'",
+    "dev": "serve . -p 3000",
     "start": "python3 -m http.server 3000",
     "dev": "python3 -m http.server 3000"
   },
