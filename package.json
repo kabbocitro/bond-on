@@ -1,0 +1,14 @@
+{
+  "name": "bond-in",
+  "version": "1.0.0",
+  "description": "Bond-in login page",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete - static HTML ready for deployment'",
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": ["bond-in", "login", "html"],
+  "author": "",
+  "license": "ISC"
+}
